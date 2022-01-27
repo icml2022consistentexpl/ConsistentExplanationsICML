@@ -1,0 +1,15 @@
+scipy
+matplotlib
+seaborn
+tqdm
+Cython
+numpy==1.20
+sklearn
+pandas
+xgboost
+lightgbm
+catboost
+imodels
+keras
+tensorflow
+skranger==0.7.0
