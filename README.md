@@ -5,7 +5,7 @@ It implemented the SDP explanations approaches of the Paper: **Consistent Suffic
 explaining the decision of any classifier or regressor**.
  
 ## Requirements
-Python 3.6+ 
+Python 3.7+ 
 
 **OSX**: ACV uses Cython extensions that need to be compiled with multi-threading support enabled. 
 The default Apple Clang compiler does not support OpenMP.
@@ -134,4 +134,4 @@ acv_xplainer.fit_global_rules(X_train, y_train, rules, S_star)
 
 ## Notebooks
 
-You can find the experiments of the paper in the notebook directory.
+You can find the experiments of the paper in the [notebook directory](https://github.com/icml2022consistentexpl/ConsistentExplanationsICML/tree/main/notebooks).
